@@ -1,0 +1,38 @@
+{
+  "itemList":
+  [
+    {
+      "match": {
+        "remoteSourceType": "betradar",
+        "remoteSourceId": "3517478642",
+        "subcategory": {
+          "id": 2575,
+          "categoryId":123,
+          "isAlwaysShown": true
+        },
+        "team1": {
+          "title": "Спартак",
+          "lineCategoryId": "1"
+        },
+        "team2": {
+          "title": "Зенит",
+          "lineCategoryId": "1"
+        },
+        "beginAt": "2019-11-14 19:00:00 +0300",
+
+      },
+      "line":
+      {
+        "type": 2,
+        "status": 100
+      },
+      "outcomeList": [
+        {
+          "typeId": 1,
+          "status": 100,
+          "odd": "3.3"
+        }
+      ]
+    }
+  ]
+}
